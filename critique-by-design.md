@@ -47,9 +47,9 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+|What do you think are the strengths of this visualization?|             |             |
+|What makes you confused or uncomfortable when you look at this visualization?|             |             |
+|What will you to do optimize them?|             |             |
 
 Synthesis: 
 
