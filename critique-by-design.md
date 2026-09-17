@@ -51,15 +51,17 @@ I took note of what my partners said and summarized them. See the table below.
 |What will you to do optimize them?|1. Using red instead of green, which is easier for people to associate with "dead" and "toxic" 2. Using a statement, or question combines part of the conclusion, to show both the question and the insights of this visualization|1. Change the scale, maybe omit some low-ranking animals, to present the difference in number of killed people more clearly. 2. Change the layout from vertical to horizontal|
 
 Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+1. The title - The first impression of this visualization. Need to tell a story, rather than just describe the chart, or ask a question.
+2. The use of color, not only for clarity and appealing, but will be better to associate to your content (the data and background)
+3. Using appropriate scale is important. Changing the scale may makes the visualization more readable in a minute.
+4. Need to be careful with any misunderstanding caused by the overlap of labels, and layout.
 
 ## Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
-_List any references you used here._
+Data Source: https://makeovermonday.vercel.app/dataset/what-are-the-world-s-deadliest-animals
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
