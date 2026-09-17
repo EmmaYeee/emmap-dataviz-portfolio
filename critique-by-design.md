@@ -65,6 +65,11 @@ Synthesis:
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+Notes:
+
+At first, I planned to build a treemap, since it is effective in presenting the relative magnitude. And In the original visualization, I found it was confused about the difference - Why Mosquitoes and Humans are showed by blocks, while other animals are showed by bars? I want to find a more unified solution, which present the relative magnitude by using different sizes in a single chart directly. However, this solution isn't applicable because of the huge differences in values between different animals. For example, mosquitoes kill 760,000 people per year, while some animals - such as elephants and big cats - only kill less than a thousand people. If using a single treemap to show their ranks, the block of the animals at the bottom will be extremely tiny, which makes them difficult to read, and decrease the visual appeal of the chart. Finally, I gave up using the treemap, but using the treemap for the top animals and keeping the bar chart for others instead.
+
+
 
 ## References
 Data Source: https://makeovermonday.vercel.app/dataset/what-are-the-world-s-deadliest-animals
