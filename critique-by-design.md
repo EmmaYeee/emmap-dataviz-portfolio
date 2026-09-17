@@ -64,10 +64,7 @@ _Include and describe your final solution here. It's also a good idea to summari
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1789612463142');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
-  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1600px';vizElement.style.height='927px';} 
-  else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1600px';vizElement.style.height='927px';} 
-  else { vizElement.style.width='100%';vizElement.style.height='827px';}                     
-  var scriptElement = document.createElement('script');                    
+  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1600px';vizElement.style.height='927px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1600px';vizElement.style.height='927px';} else { vizElement.style.width='100%';vizElement.style.height='827px';}               var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
