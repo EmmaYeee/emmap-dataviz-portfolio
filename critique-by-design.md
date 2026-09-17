@@ -73,7 +73,10 @@ Notes:
 At first, I planned to build a treemap, since it is effective in presenting the relative magnitude. And In the original visualization, I found it was confused about the difference - Why Mosquitoes and Humans are showed by blocks, while other animals are showed by bars? I want to find a more unified solution, which present the relative magnitude by using different sizes in a single chart directly. However, this solution isn't applicable because of the huge differences in values between different animals. For example, mosquitoes kill 760,000 people per year, while some animals - such as elephants and big cats - only kill less than a thousand people. If using a single treemap to show their ranks, the block of the animals at the bottom will be extremely tiny, which makes them difficult to read, and decrease the visual appeal of the chart. Finally, I gave up using the treemap, but using the treemap for the top animals and keeping the bar chart for others instead.
 
 Based on the ideas and suggestions from the interviews, I redesigned my visualization from the following aspects:
-1.
+1. Color: Changed the color of blocks and bars to red, which is easier to indicate the topic of dead and toxic.
+2. Topic: Polished the topic to "The tiny killers", which would not only attract readers to the topic but also indicate the insights from the data.
+3. Layout: Changed the layout of the two graphs (treemap and bar chart) from vertical to horizontal, which eliminated the confusion of the X-axis.
+4. Scale and Content: Reallocate animals to the two graphs. Put the Top 5 animals in the treemap, and other animals in the bar chart. Then the exact values would be easier to see, and the difference between the low ranking animals are presented more reader-friendly.
 
 
 
