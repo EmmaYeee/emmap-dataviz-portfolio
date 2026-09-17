@@ -42,14 +42,13 @@ Questions to ask (modify these for your own interviews):
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
+I took note of what my partners said and summarized them. See the table below.
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|What do you think are the strengths of this visualization?|             |             |
-|What makes you confused or uncomfortable when you look at this visualization?|             |             |
-|What will you to do optimize them?|             |             |
+|What do you think are the strengths of this visualization?|Use clear labels to show the names and values|Choose treemap and bar chart, agree|
+|What makes you confused or uncomfortable when you look at this visualization?|1.Green Color 2.The title should be a statement, telling a story, not just a question|1. The scale makes some animals' count difficult to see, but audience may interested about them 2.The vertical layout may cause misunderstanding about the x-axis|
+|What will you to do optimize them?|1. Using red instead of green, which is easier for people to associate with "dead" and "toxic" 2. Using a statement, or question combines part of the conclusion, to show both the question and the insights of this visualization|1. Change the scale, maybe omit some low-ranking animals, to present the difference in number of killed people more clearly. 2. Change the layout from vertical to horizontal|
 
 Synthesis: 
 
