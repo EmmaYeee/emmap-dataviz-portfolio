@@ -36,7 +36,7 @@ The project will primarily use long-term bird population data from the U.S. Geol
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+![Stage1-sketch](images/Stage1-sketch.png)
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
