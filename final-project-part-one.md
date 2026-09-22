@@ -65,10 +65,22 @@ NOAA climate data might be used to explore whether temperature or precipitation 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+I plan to create an interactive data visualization project primarily using Tableau. The project will combine line charts, comparative visualizations, and potentially maps to guide the audience through the story. Interactive features such as filters and tooltips may allow users to explore individual bird species and population patterns in more detail.
 
 ## References
-_List any references you used here._
+
+- U.S. Geological Survey. North American Breeding Bird Survey Analysis Results, 1966–2025.  
+  https://www.usgs.gov/data/north-american-breeding-bird-survey-analysis-results-1966-2025
+
+- U.S. Fish & Wildlife Service. ECOS Species Reports.  
+  https://ecos.fws.gov/ecp/species-reports
+
+- U.S. Geological Survey. Annual National Land Cover Database (Annual NLCD).  
+  https://www.usgs.gov/centers/eros/science/annual-national-land-cover-database
+
+- NOAA National Centers for Environmental Information. Climate Data Online.  
+  https://www.ncei.noaa.gov/cdo-web/
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Tool: ChatGPT instant
+Use ChatGPT to do grammar check, and help polishes the content into a well-organized structure.
