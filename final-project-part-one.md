@@ -42,15 +42,19 @@ The project will primarily use long-term bird population data from the U.S. Geol
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 **1. USGS North American Breeding Bird Survey (BBS)**
+
 The primary dataset for this project. The Core Indices and Core Trends datasets will be used to examine annual population patterns and long-term trends among selected bird species from 1966–2025.
 
 **2. U.S. Fish & Wildlife Service (FWS) ECOS**
+
 FWS ECOS data will be used to identify bird species that are federally listed as threatened or endangered. This information will be used to connect official conservation status with the population trends found in the BBS data.
 
 **3. USGS Annual National Land Cover Database (Annual NLCD) - Alternative**
+
 USGS Annual NLCD might be used to explore changes in land use and urban development. This data could help provide environmental context for geographic differences in bird population trends. 
 
 **4. NOAA Climate Data Online (CDO) - Alternative**
+
 NOAA climate data might be used to explore whether temperature or precipitation patterns are associated with changes in bird populations. This data would serve as additional environmental context.
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
