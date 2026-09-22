@@ -5,12 +5,33 @@
 
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+
+**Summary**
+
+Topic (tentative): Endangered and Threatened Birds in North America: Understanding Long-Term Population Decline
+
+For my final project, I plan to explore long-term population changes among threatened and endangered bird species in North America. Bird populations can change substantially over time, and these changes are different across species or geographic areas. Through data visualization, I hope to show which species have experienced notable population declines, how their populations have changed over time, and where these patterns are occurring.
+
+The project will primarily use long-term bird population data from the U.S. Geological Survey’s North American Breeding Bird Survey (BBS), together with conservation status information from the U.S. Fish and Wildlife Service. I may also incorporate environmental data, such as land-use change, urban development, or climate conditions, to explore possible factors associated with observed population patterns. 
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-Text here...
+**Project Structure**
+
+1. **Introduction – Why Are These Birds at Risk?**
+   Introduce threatened and endangered bird species in North America, and explain why monitoring long-term population changes is important.
+
+2. **The Long-Term Trends – How Have Populations Changed?**
+   Show how populations of selected threatened and endangered bird species have changed over time using long-term Breeding Bird Survey data. Present the main population trends and allow the audience to see that different species may follow very different trajectories.
+
+3. **Identifying the Most Significant Declines**
+   Compare population trends across selected species to highlight which birds have experienced particularly substantial declines. 
+
+4. **Exploring Where and Why Patterns Differ**
+   Examine geographic differences in population trends and, where appropriate, incorporate supplementary environmental data such as land-use change, urban development, or climate conditions. Explore possible associations rather than claim direct causation.
+
+5. **Conclusion – What Can We Learn from These Patterns?**
+   Bring the population, geographic, and environmental patterns together to summarize what the data reveals about the challenges facing threatened and endangered birds. Emphasize the importance of long-term monitoring and protection.
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
