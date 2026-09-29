@@ -1,10 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
 
 **Summary**
 
@@ -13,8 +9,6 @@ Topic (tentative): Endangered and Threatened Birds in North America: Understandi
 For my final project, I plan to explore long-term population changes among threatened and endangered bird species in North America. Bird populations can change substantially over time, and these changes are different across species or geographic areas. Through data visualization, I hope to show which species have experienced notable population declines, how their populations have changed over time, and where these patterns are occurring.
 
 The project will primarily use long-term bird population data from the U.S. Geological Survey’s North American Breeding Bird Survey (BBS), together with conservation status information from the U.S. Fish and Wildlife Service. I may also incorporate environmental data, such as land-use change, urban development, or climate conditions, to explore possible factors associated with observed population patterns. 
-
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
 **Project Structure**
 
@@ -34,12 +28,10 @@ The project will primarily use long-term bird population data from the U.S. Geol
    Bring the population, geographic, and environmental patterns together to summarize what the data reveals about the challenges facing threatened and endangered birds. Emphasize the importance of long-term monitoring and protection.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
 ![Initial Sketches](images/Stage1-sketch.jpg)
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 **1. USGS North American Breeding Bird Survey (BBS)**
 
@@ -67,7 +59,6 @@ NOAA climate data might be used to explore whether temperature or precipitation 
 |NOAA Climate Data Online (CDO)|https://www.ncei.noaa.gov/cdo-web/|Alternative dataset for environmental context|
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
 I plan to create an interactive data visualization project primarily using Tableau. The project will combine line charts, comparative visualizations, and potentially maps to guide the audience through the story. Interactive features such as filters and tooltips may allow users to explore individual bird species and population patterns in more detail.
 
