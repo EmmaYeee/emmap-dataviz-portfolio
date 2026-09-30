@@ -49,8 +49,6 @@ USGS Annual NLCD might be used to explore changes in land use and urban developm
 
 NOAA climate data might be used to explore whether temperature or precipitation patterns are associated with changes in bird populations. This data would serve as additional environmental context.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
 | Name | URL | Description |
 |------|-----|-------------|
 |USGS North American Breeding Bird Survey (BBS)|https://www.usgs.gov/data/north-american-breeding-bird-survey-analysis-results-1966-2025|Primary dataset for population patterns and long-time trends|
