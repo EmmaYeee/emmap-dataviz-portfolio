@@ -77,6 +77,14 @@ Each block is one ESA listing for a bird that breeds in the continental U.S. or 
 
 The survey that tracks most North American birds did not see the ones that need watching most. Protecting listed birds depends on targeted monitoring and on making those results as open and comparable as the BBS. Readers are pointed to ways to contribute, such as eBird and local shorebird or marsh-bird counts.
 
+## Data Use and Preprocess
+
+1. Sources: U.S. Fish & Wildlife Service ECOS species listings (Endangered/Threatened); USGS North American Breeding Bird Survey Core Trends and Core Indices, 1966–2025.
+2. Matching: FWS listings were matched to BBS species by name and then reviewed by hand. Each match was labeled by level (entire species, subspecies, or DPS/population), and a BBS region was chosen to fit the listing scope rather than defaulting to survey-wide results.
+3. Quality checks: BBS credibility codes, number of routes, and credible intervals were checked; regional estimates with poor credibility were excluded from charts.
+4. Scope note: The FWS file has no taxonomic group field, so listed birds were identified through name matching and manual review. Figures describe "listings we reviewed," not a guaranteed complete census.
+5. Planned but dropped: An environmental-context chart using USGS land-cover data was considered in Part I. It was set aside so the story could focus on what the survey data can and cannot show.
+
 # User research 
 
 ## Target audience
