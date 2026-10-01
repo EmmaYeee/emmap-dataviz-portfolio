@@ -20,6 +20,7 @@ Based on feedback from Part I, the project moved from a data report to a story w
 ### Figure 1 — Four endangered birds, four different stories. 
 
 Annual BBS population index for four ESA-listed birds, rescaled so each bird's first five survey years = 100 (log scale). Each bird is matched to the BBS region that best fits its listing: Red-cockaded Woodpecker (entire species, survey-wide), Crested Caracara (Florida DPS, Florida), Yellow-billed Cuckoo (Western DPS, Chihuahuan Desert region), and Least Bell's Vireo (California, dashed line because BBS does not separate subspecies). One bird has increased dramatically, one is roughly stable, one is recovering, and one has fallen to about 37% of its starting level.
+
 <div class='tableauPlaceholder' id='viz1790890655680' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalProject-EmmaPeng&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FinalProject-EmmaPeng&#47;Sheet1' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalProject-EmmaPeng&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1790890655680');                    
@@ -33,6 +34,7 @@ Annual BBS population index for four ESA-listed birds, rescaled so each bird's f
 ### Figure 2 — Only one of these trends is statistically clear. 
 
 Average annual change (%/yr) with 95% credible intervals. Only the Crested Caracara's interval stays entirely above zero; the other three cross zero, so the data cannot confirm the direction of change. This introduces uncertainty before the reader draws strong conclusions from Figure 1.
+
 <div class='tableauPlaceholder' id='viz1790890884614' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalProject-EmmaPeng&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FinalProject-EmmaPeng&#47;Sheet2' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalProject-EmmaPeng&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1790890884614');                    
@@ -70,6 +72,10 @@ Each block is one ESA listing for a bird that breeds in the continental U.S. or 
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+### Insights and call to action
+
+The survey that tracks most North American birds did not see the ones that need watching most. Protecting listed birds depends on targeted monitoring and on making those results as open and comparable as the BBS. Readers are pointed to ways to contribute, such as eBird and local shorebird or marsh-bird counts.
 
 # User research 
 
