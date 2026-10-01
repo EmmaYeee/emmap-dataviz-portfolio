@@ -107,12 +107,10 @@ Potential interviewees:
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|Get a baseline      |When you hear a bird is "endangered," what do you picture happening to it? What will you expect to hear from the presentation?                  |
+|Evaluate the efficiency of expression      |Can you understand the content easily? Which part makes you confused?                   |
+|Evaluate the quality of charts      |Which part you would recommend optimize it? E.g. colors, fonts, chart types                  |
 
-
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
