@@ -1,9 +1,33 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+## Wireframes
+Working title: Behind the Label: What "Endangered" Doesn't Tell Us About America's Birds
+
+Big idea: An "Endangered" or "Threatened" label tells readers that a bird needs help, but not what is actually happening to it. Long-term survey data show listed birds following very different paths, often with a lot of uncertainty, and the main U.S. bird survey cannot track most listed birds at all.
+
+Based on feedback from Part I, the project moved from a data report to a story with a clear audience, a story arc, and a call to action. The story is built in four steps, each answering a question raised by the previous one.
+
+1. What does "endangered" look like over time?
+2. How sure are we?
+3. Does the national number describe the protected birds?
+4. How many listed birds can we see at all?
+5. What can we do for the endangered and threatened birds?
+
+## Storyboards
+Figure 1 — Four endangered birds, four different stories. 
+
+Annual BBS population index for four ESA-listed birds, rescaled so each bird's first five survey years = 100 (log scale). Each bird is matched to the BBS region that best fits its listing: Red-cockaded Woodpecker (entire species, survey-wide), Crested Caracara (Florida DPS, Florida), Yellow-billed Cuckoo (Western DPS, Chihuahuan Desert region), and Least Bell's Vireo (California, dashed line because BBS does not separate subspecies). One bird has increased dramatically, one is roughly stable, one is recovering, and one has fallen to about 37% of its starting level.
+<div class='tableauPlaceholder' id='viz1790890655680' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalProject-EmmaPeng&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FinalProject-EmmaPeng&#47;Sheet1' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalProject-EmmaPeng&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1790890655680');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 # User research 
 
