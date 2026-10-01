@@ -17,6 +17,10 @@ Based on feedback from Part I, the project moved from a data report to a story w
 
 ## Storyboards
 
+### Opening
+
+Sets up the question: If a bird is labeled endangered, what would instinctively comes to your mind? Is its population necessarily falling?
+
 ### Figure 1 — Four endangered birds, four different stories. 
 
 Annual BBS population index for four ESA-listed birds, rescaled so each bird's first five survey years = 100 (log scale). Each bird is matched to the BBS region that best fits its listing: Red-cockaded Woodpecker (entire species, survey-wide), Crested Caracara (Florida DPS, Florida), Yellow-billed Cuckoo (Western DPS, Chihuahuan Desert region), and Least Bell's Vireo (California, dashed line because BBS does not separate subspecies). One bird has increased dramatically, one is roughly stable, one is recovering, and one has fallen to about 37% of its starting level.
@@ -88,14 +92,18 @@ The survey that tracks most North American birds did not see the ones that need 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+Primary: General readers who care about nature but are not ecologists.
+
+Secondary: Casual birders and potential citizen-science volunteers (Who are the people most able to act on the call to action).
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+Potential interviewees:
+
+1. A reader with no ecology or statistics background (tests whether the story is understandable without prior knowledge).
+2. A reader with some interest in nature or birding (tests whether the story feels relevant and whether the call to action is motivating).
+3. A reader comfortable with data or statistics (tests whether the methods and uncertainty are presented honestly and convincingly).
 
 | Goal | Questions to Ask |
 |------|------------------|
