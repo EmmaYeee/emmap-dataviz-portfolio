@@ -143,14 +143,23 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
-_List any references you used here._
+
+1. U.S. Fish & Wildlife Service. ECOS Species Data Explorer (Endangered and Threatened listings). https://ecos.fws.gov
+2. U.S. Geological Survey. North American Breeding Bird Survey, Core Trends and Core Indices, 1966–2025. [Add the official dataset citation from the USGS download page.]
+3. U.S. Geological Survey. The North American Breeding Bird Survey (introduction). https://www.mbr-pwrc.usgs.gov/bbs/genintro.html
+4. U.S. Geological Survey. Expanding the North American Breeding Bird Survey analysis to include additional species and regions. https://pubs.usgs.gov/publication/70188461
+5. Sauer, J. (1999). Marsh birds and the North American Breeding Bird Survey: judging the value of a landscape level survey for habitat specialist species with low detection rates. Proceedings of the Marsh Bird Monitoring Workshop. https://pubs.usgs.gov/publication/5211378
+6. Ankori-Karlinsky, R., et al. (2022). North American Breeding Bird Survey underestimates regional bird richness compared to Breeding Bird Atlases. Ecosphere. https://doi.org/10.1002/ecs2.3925
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
+AI tools (ChatGPT and Claude) were used to support this assignment:
+
+1. Planning: Discussing the figure plan and story structure based on the instructor's feedback on Part I, generating some insights.
+2. Data preparation: Writing Python code to match FWS listings to BBS species, check data quality (credibility codes, routes, credible intervals), and produce the cleaned tables used for each figure.
+3. Tableau guidance: Solving problems during the process of building charts (e.g. log axis, reference lines, dual-axis interval plot, unit chart).
+4. Writing support: Helping organized the ideas, checked and corrected grammar issues, and polished the text.
+
+All matching decisions, category assignments, and figures were reviewed by the author. Ecological categories in Figure 4 ("coastal," "nocturnal," etc.) were checked against species information, and all reported numbers were verified against the source data.
