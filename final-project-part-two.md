@@ -109,7 +109,7 @@ Potential interviewees:
 |------|------------------|
 |Get a baseline      |When you hear a bird is "endangered," what do you picture happening to it? What will you expect to hear from the presentation?                  |
 |Evaluate the efficiency of expression      |Can you understand the content easily? Which part makes you confused?                   |
-|Evaluate the quality of charts      |Which part you would recommend optimize it? E.g. colors, fonts, chart types                  |
+|Evaluate the quality of charts      |Which part do you think could be improved? E.g. colors, fonts, chart types                  |
 
 
 ## Interview findings
@@ -117,30 +117,28 @@ Potential interviewees:
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| What do you picture when a bird is "endangered"? | Only small number of individuals exist, fragile species            | A small, declining population facing threats such as habitat loss            | Very few birds and a very small habitat range; they need careful protection by experts and organizations or could go extinct soon.             |
+| Which part makes you confused?                        | 1) Hard for a general audience: the rescaled index and log scale need a short explanation of what 100 means. 2) "Credible interval" may be unfamiliar 3) The three categories in Fig. 4 need simple explanations.                              |1) Fig. 1 causes misunderstanding: first read the lines as actual bird counts. 2) DPS, BBS, and "proxy" appear before they are explained.  3) In Fig. 2 the text says "credible interval" while the axis says "confidence interval."            |1) Fig. 1 guessed 100 was a starting value, but did not understand why all four birds start at 100. 2) Fig. 2 did not understand the legend "CI excludes 0" or why excluding zero matters. 3) From Fig.2 to Fig. 3 transition, confused about why the story goes from four birds to "many birds"; read the regional bars as different species.           |
+| Which part do you think could be improved?                        |1) The shift from four birds to the cuckoo needs a transition explaining it is a different problem.  2) Could consider narrowing down some content, or the story may seems lack of main topic                              |1) In Fig. 3 there are too many regions, several labels truncated; the one Western region needs more emphasis.  2) In Fig. 2 the dots are too big, which overlap and affect the CI 3) The position of some labels should be moved to reduce misunderstandings            |1) Some topics could be deleted, can either delete the topic of chart or the topic on the webpage. 2) Captions take too much spaces, can delete some content or combine some of the information           |
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+Reviewers consistently understood the overall story and remembered the "4 of 42" finding. The main problems were readability: technical terms, the normalized scale, inconsistent terminology, and unclear transitions between charts. The interview showed that a reader without background can misread a chart entirely when the text does not explain what each bar or line represents.
+
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
+|The interviewee assumed "endangered" means very few birds that could go extinct soon, exactly the assumption the story questions. | Keep this question as the opening hook and answer it directly in the introduction. The "4 of 42" finding was the most memorable point for reviewers.  |Keep the story order and make Figure 4's conclusion more visible.  |
+|Terms like BBS, DPS, and "proxy" make readers confused.  | Define BBS and DPS in the introduction; use plain-language labels in charts (e.g., "Florida population").  |
+|Readers did not understand why all four lines start at 100, and some read them as actual bird counts.  |   Add an annotation: "Each bird's starting level is set to 100 so their changes can be compared."  |
+|The legend "CI excludes 0" meant nothing to the interviewee; reviewers also noted mixed "credible/confidence" terms.  |  Remove the legend; color the clear result orange and the others gray with a "no clear trend" label; use one plain-language term.     |
+| The interviewee read Figure 3's regional bars as different bird species.          |  Add a subtitle: "One bird, many regions: the Yellow-billed Cuckoo," and a transition sentence explaining the shift from comparing birds to comparing places. |
+| The interviewee did not understand why Figure 4 suddenly shows many birds. | Add a transition, like "So far we've looked at the 4 birds the survey can track. What about the rest?" and show totals (4 / 14 / 24) with a one-line explanation of each group. |
+| Figure 3 had too many regions and truncated labels, stressful for readers. | Highlight the one Western region with data and fix label widths. |
+| Tableau tabs, toolbars, leftover text, and duplicate titles added clutter. | Hide tabs and toolbars, remove leftover text, and keep one title per chart. |
 
 ## References
 
