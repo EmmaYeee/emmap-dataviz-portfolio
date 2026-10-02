@@ -143,6 +143,8 @@ Reviewers consistently understood the overall story and remembered the "4 of 42"
 | Figure 3 had too many regions and truncated labels, stressful for readers. | Highlight the one Western region with data and fix label widths. |
 | Tableau tabs, toolbars, leftover text, and duplicate titles added clutter. | Hide tabs and toolbars, remove leftover text, and keep one title per chart. |
 
+Based on the feedback above, I made a few quick fixes before submitting Part II: Added annotations explaining what the 100 line means in Figure 1, replaced the "CI excludes 0" legend in Figure 2 with plain-language labels, added a subtitle to Figure 3 clarifying that each bar is the same bird in a different region, and showed the group totals directly in Figure 4. The larger changes, including clearer transitions between charts, defining technical terms earlier, and cleaning up the overall layout, will be completed in Part III.
+
 ## References
 
 1. U.S. Fish & Wildlife Service. ECOS Species Data Explorer (Endangered and Threatened listings). https://ecos.fws.gov
