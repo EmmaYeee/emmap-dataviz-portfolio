@@ -26,7 +26,7 @@ An exercise in thinking critically about other people's visualizations. I picked
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one) project pitch, data sources, and initial sketches
-[Part II](final-project-part-two) storyboard, draft visualizations, and user research
-Part III(final-project-part-three) final data story, design decisions, and reflections
+[Part I](final-project-part-one) : project pitch, data sources, and initial sketches
+[Part II](final-project-part-two) : storyboard, draft visualizations, and user research
+Part III(final-project-part-three) : final data story, design decisions, and reflections
 
