@@ -4,10 +4,10 @@
 
 ## Project Links
 
-1. Data Story (Shorthand): https://carnegiemellon.shorthandstories.com/behind-the-label-endangered-birds/index.html
-2. Interactive Charts (Tableau Public): https://public.tableau.com/app/profile/ye.peng/viz/FinalProject-EmmaPeng/Sheet1
-3. GitHub Repository: https://github.com/EmmaYeee/emmap-dataviz-portfolio/
-4. Personal Portfolio (GitHub Pages): https://emmayeee.github.io/emmap-dataviz-portfolio/
+1. Data Story (Shorthand): <https://carnegiemellon.shorthandstories.com/behind-the-label-endangered-birds/index.html>
+2. Interactive Charts (Tableau Public): <https://public.tableau.com/app/profile/ye.peng/viz/FinalProject-EmmaPeng/Sheet1>
+3. GitHub Repository: <https://github.com/EmmaYeee/emmap-dataviz-portfolio/>
+4. Personal Portfolio (GitHub Pages): <https://emmayeee.github.io/emmap-dataviz-portfolio/>
 
 # Changes made since Part II
 
