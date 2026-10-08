@@ -1,6 +1,6 @@
 | [home page](https://emmayeee.github.io/emmap-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# The final data story: Behind the Label - What "Endangered Doesn't Tell Us About American Birds?
+# The final data story: Behind the Label - What "Endangered" Doesn't Tell Us About American Birds?
 
 ## Project Links
 
