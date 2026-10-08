@@ -18,7 +18,7 @@ Hi!  My name is Emma. I am a second year student of Heinz College MISM-BIDA prog
 
 # Portfolio 
 
-## Assignment: [Visualizing Government Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](dataviz_examples)
 A hands-on Tableau exercise. I built visualizations of government debt data, then set up a new GitHub page to present them, including embedding chart images and organizing the write-up.
 
 ## Assignment: [Critique by Design](critique-by-design)
@@ -28,5 +28,5 @@ An exercise in thinking critically about other people's visualizations. I picked
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one) : project pitch, data sources, and initial sketches
 [Part II](final-project-part-two) : storyboard, draft visualizations, and user research
-Part III(final-project-part-three) : final data story, design decisions, and reflections
+[Part III](final-project-part-three) : final data story, design decisions, and reflections
 
