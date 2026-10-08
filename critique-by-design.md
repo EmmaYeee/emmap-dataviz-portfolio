@@ -75,6 +75,6 @@ Based on the ideas and suggestions from the interviews, I redesigned my visualiz
 
 
 ## References
-Data Source: https://makeovermonday.vercel.app/dataset/what-are-the-world-s-deadliest-animals
+Data Source and Original Visualization: <https://makeovermonday.vercel.app/dataset/what-are-the-world-s-deadliest-animals>
 
 
