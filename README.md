@@ -3,9 +3,9 @@
 # Portfolio
 This is Emma Peng's public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  
 
-- Web page URL: https://emmayeee.github.io/emmap-dataviz-portfolio/
-- This repository: https://github.com/EmmaYeee/emmap-dataviz-portfolio/
-- Tableau Public profile: https://public.tableau.com/app/profile/ye.peng/vizzes
+- Web page URL: <https://emmayeee.github.io/emmap-dataviz-portfolio/>
+- This repository: <https://github.com/EmmaYeee/emmap-dataviz-portfolio/>
+- Tableau Public profile: <https://public.tableau.com/app/profile/ye.peng/vizzes>
 
 # About me
 Hi!  My name is Emma. I am a second year student of Heinz College MISM-BIDA program. I really interested in working with and getting insights from data, and I like visualizations. 
