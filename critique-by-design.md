@@ -1,11 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Critique by Design
-_Critique and Redesign (Week 4)_
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+# Critique by Design (Week 4)
 
 ## Step one: the visualization
 Original Data Visualization and Dataset: https://makeovermonday.vercel.app/dataset/what-are-the-world-s-deadliest-animals
@@ -79,11 +74,7 @@ Based on the ideas and suggestions from the interviews, I redesigned my visualiz
 4. Scale and Content: Reallocate animals to the two graphs. Put the Top 5 animals in the treemap, and other animals in the bar chart. Then the exact values would be easier to see, and the difference between the low ranking animals are presented more reader-friendly.
 
 
-
-
 ## References
 Data Source: https://makeovermonday.vercel.app/dataset/what-are-the-world-s-deadliest-animals
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
